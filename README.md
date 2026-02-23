@@ -49,7 +49,7 @@
 
 - [x] ✅ Set up GitHub account & Education Pack
 - [x] ✅ Complete GitHub Skills — Introduction to GitHub
-- [ ] 🔄 Learn HTML, CSS, JavaScript basics
+- [ ] 🔄 Learn Python,HTML, CSS, JavaScript basics
 - [ ] 🔄 Build 3 small projects
 - [ ] ⏳ Learn a framework (React / Next.js)
 - [ ] ⏳ Build a full-stack project
